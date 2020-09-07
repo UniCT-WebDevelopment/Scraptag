@@ -1,0 +1,47 @@
+{
+    "msg1": "The length of the description respects the fees",
+    "msg2": "",
+
+    "msg3": "This URL is too long!",
+    "msg4": "The URL is SEO friendly!",
+    "msg5": "The URL respects the fees!",
+
+    "msg7": "The keyword is contained in the description!",
+    "msg8": "The keyword is not contained in the description!",
+
+    "msg9": "The length of the title respects the fees!",
+    "msg10": "The length of the title doesn't respect the fees!",
+
+    "msg11": "There is no H1 tag on this page!",
+    "msg12": "The length of the H1 tag respects the fees!",
+    "msg13": "The length of the H1 tag doesn't respect the fees!",
+
+    "msg14": "The H2 tag is unique!",
+    "msg15": "The H2 tag isn't unique!",
+
+    "msg16": "There is no robot.txt file!",
+    "msg17": "The robot.txt file is present!",
+
+    "msg18": "The CSS file isn't linked!",
+    "msg20": "The CSS file is unique and is successfully linked!",
+    "msg24": "Multiple CSS files are linked!",
+    "msg27": "The CSS file is located inside a STYLE tag!",
+    "msg28": "There is no STYLE tag!",
+    "msg29": "The STYLE attribute is present in the tags!",
+    "msg30": "There is no STYLE attribute!",
+    "msg31": "There is a STYLE attribute!",
+
+    "msg19": "no position",
+    "msg21": "body",
+    "msg23": "head",
+    "msg25": "head+body",
+    "msg26": "body",
+
+    "msg32": "The script is unique!",
+    "msg33": "There are no scripts linked!",
+    "msg34": "Lo script non è unico!",
+    "msg35": "There is no script by tag!",
+    "msg36": "There are multiple scripts tagged!",
+    
+    "msg37": "All IMG tags contain the ALT attribute!"
+}

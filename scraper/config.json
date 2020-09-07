@@ -1,0 +1,20 @@
+{
+    "settings": {
+      "auditMode": "/User/me/lighthouse/lighthouse-core/test/fixtures/artifacts/perflog/"
+    },
+    "audits": [
+      "user-timings",
+      "critical-request-chains"
+    ],
+  
+    "categories": {
+      "performance": {
+        "name": "Performance Metrics",
+        "description": "These encapsulate your web app's performance.",
+        "audits": [
+          {"id": "user-timings", "weight": 1},
+          {"id": "critical-request-chains", "weight": 1}
+        ]
+      }
+    }
+  }

@@ -1,0 +1,47 @@
+{
+    "msg1" : "La lunghezza della descrizione rispetta i canoni",
+    "msg2" : "",
+
+    "msg3" : "Questo URL è troppo lungo!",
+    "msg4" : "L'URL è SEO friendly!",
+    "msg5" : "L'URL rispetta i canoni!",
+
+    "msg7" : "La parola chiave è contenuta nella descrizione!",
+    "msg8" : "La parola chiave non è contenuta nella descrizione!",
+
+    "msg9" : "La lunghezza del titolo rispetta i canoni!",
+    "msg10" : "La lunghezza del titolo non rispetta i canoni!",
+
+    "msg11": "Non è presente alcun tag H1 in questa pagina!",
+    "msg12": "La lunghezza del tag H1 rispetta i canoni!",
+    "msg13": "La lunghezza del tag H1 non rispetta i canoni!",
+
+    "msg14": "Il tag H2 è unico!",
+    "msg15": "Il tag H2 non è unico!",
+
+    "msg16": "Non è presente un file robot.txt!",
+    "msg17": "Il file robot.txt è presente!",
+
+    "msg18": "Il file CSS non è stato linkato!",
+    "msg20": "Il file CSS è unico ed è stato correttamente linkato!",
+    "msg24": "Più file CSS sono stati linkati!",
+    "msg27": "Il file CSS è stato schiantato all'interno di un tag STYLE!",
+    "msg28": "Non è presente un tag STYLE!",
+    "msg29": "L'attributo STYLE è presente nei tag!",
+    "msg30": "Non è presente alcun attributo STYLE!",
+    "msg31": "E' presente un attributo STYLE!",
+
+    "msg19": "nessuna",
+    "msg21": "body",
+    "msg23": "head",
+    "msg25": "head+body",
+    "msg26": "body",
+
+    "msg32": "Lo script è unico!",
+    "msg33": "Non ci sono script linkati!",
+    "msg34": "Lo script non è unico!",
+    "msg35": "Non è presente nessuno script tramite tag!",
+    "msg36": "Sono presenti più script tramite tag!",
+
+    "msg37": "Tutti i tag IMG contengono l'attributo ALT!"
+}
